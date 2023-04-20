@@ -9,7 +9,7 @@ https://www.kaggle.com/code/rrighart/detection-of-product-defects-using-yolov7) 
 
 A demo can be found:
 
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)][(https://huggingface.co/spaces/xvjiarui/ODISE)](https://huggingface.co/spaces/rrighart/product-defects)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/rrighart/product-defects)
 
 # Contact
 
